@@ -1,4 +1,4 @@
---------------------------------- Walking Through UI -----------------------------------------------
+## Walking through UI
 --> There are two tabs in the Nav bar, a) Add/View Product b) Generate Bill
 --> In Add/View Product you can add your own products with their name and price.
 --> In Generate Bill Tab, you can add your products in the cart, click on Add buttons to add products and you can see the corresponding     bill in the right hand side is Generated.
