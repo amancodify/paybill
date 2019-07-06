@@ -1,0 +1,21 @@
+{
+    "products": [
+        {
+            "name": "milk",
+            "price": 20
+        },
+        {
+            "name": "ghee",
+            "price": 200
+        },
+
+        {
+            "name": "Kitkat",
+            "price": 40
+        },
+        {
+            "name": "Toothpaste",
+            "price": 90
+        }
+    ]
+}
